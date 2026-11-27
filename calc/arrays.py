@@ -1,5 +1,5 @@
 import random
-MIN_VALUE  = -1000
+MIN_VALUE  = -100
 MAX_VALUE  =  100
 MAX_COUNT  = 1_000_000
 MAX_SEARCH = 1000
